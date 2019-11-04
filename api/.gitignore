@@ -1,0 +1,8 @@
+#ignore a single file
+db.sqlite3
+
+# ignore a file type
+*.pyc
+
+# ignore an entire directory
+migrations/
